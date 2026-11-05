@@ -1,0 +1,4 @@
+Отчёт по журналам:
+Magazine{title='National Geographic', publisher='NG Media', issue=245, pages=128, price=450,00, subscribers=1}
+Magazine{title='Мир Фантастики', publisher='TechInsider', issue=8, pages=80, price=190,00, subscribers=1}
+Magazine{title='Forbes', publisher='Forbes Inc.', issue=12, pages=96, price=350,00, subscribers=1}
